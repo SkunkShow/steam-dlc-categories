@@ -1,7 +1,8 @@
-[
-  "soundtrack": [
+{
+  "soundtrack": {
     2117970: "Slime Rancher 2: Original Soundtrack"
-  ],
-  "cosmetics": [
-  ]
-]
+  },
+  "cosmetics": {
+    1079180: "Slime Rancher: Secret Style Pack",
+  }
+}
